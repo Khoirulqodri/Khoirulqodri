@@ -1,16 +1,6 @@
-## Hi there 👋
+## Hi everyone
+
+My name is muhammad khoirul qodri, i am a second year student at gadjah mada university and currently learning on programming and geophysics. i want to  become a fresh graduate student who work with my passion and skill
 
 
-**Khoirulqodri/Khoirulqodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on programing
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on tesla
-- 🤔 I’m looking for help with elon musk
-- 💬 Ask me about politic
-- 📫 How to reach me: i dont know
-- 😄 Pronouns: odskuy
-- ⚡ Fun fact: i love meat
 
